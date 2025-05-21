@@ -1,9 +1,6 @@
 
 ---
 
-## 📄 README.md
-
-````markdown
 # 🏦 Loan Approval Prediction using Machine Learning
 
 This is a simple classification project to predict whether a loan application will be approved or not, based on applicant details like income, dependents, education, employment status, property area, and more. The project uses a publicly available dataset and implements a Logistic Regression model.
@@ -66,7 +63,7 @@ The dataset contains the following columns:
    ```bash
    git clone https://github.com/your-username/loan-approval-prediction.git
    cd loan-approval-prediction
-````
+
 
 2. Install the required libraries:
 
