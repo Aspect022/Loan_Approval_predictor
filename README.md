@@ -106,4 +106,3 @@ Achieved an accuracy of **90%** using Logistic Regression.
 
 This project is licensed under the [MIT License](LICENSE).
 
-````
